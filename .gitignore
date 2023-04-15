@@ -7,7 +7,7 @@ package-lock.json
 *.pyc
 auto_gpt_workspace/*
 *.mpeg
-.env
+*.env/*
 azure.yaml
 *venv/*
 outputs/*
@@ -125,7 +125,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
+*.env/*
 .venv
 env/
 venv/
